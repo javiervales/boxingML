@@ -16,7 +16,7 @@
   <li> <b>*.mp4</b> boxing training recording, one per session 
 </ul>
 
-Feel free to contact the main author (javier.vales@upct.es).
+Feel free to reach out the main author (javier.vales@upct.es). 
 
 Please, cite as: 
 
