@@ -10,10 +10,10 @@
   
 ## Paper materials
 <ul>
-  <li> <b>procesa.py</b> main script for data processing data
-  <li> <b>cluster.py</b> functions for data clustering
-  <li> <b>*.txt</b> boxing training data, one file per session
-  <li> <b>*.mp4</b> boxing training recording, one per session 
+  <li> <b>procesa.py</b>: main script for data processing data
+  <li> <b>cluster.py</b>: functions for data clustering
+  <li> <b>*.txt</b>: boxing training data, one file per session
+  <li> <b>*.mp4</b>: boxing training recording, one per session 
 </ul>
 
 Feel free to reach out the main author (javier.vales@upct.es). 
