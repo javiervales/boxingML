@@ -1,7 +1,7 @@
 # A nonsupervised learning approach for automatic characterization of short-distance boxing training
 
 <p>
-<b>Published in: IEEE Access vol. 7, October 2019, DOI: 10.1109/ACCESS.2019.2945396</b>
+<b>Published in: IEEE Access vol. 7, October 2019, <href url="https://doi.org/10.1109/ACCESS.2019.2945396">DOI: 10.1109/ACCESS.2019.2945396</href></b>
 
 <p>
 <b> Abstract </b> 
